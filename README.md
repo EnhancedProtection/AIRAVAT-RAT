@@ -7,6 +7,6 @@
 3. Allow all the required permission of the application
 4. Go to this this website to see the activities
 https://smishra00.github.io/hack-by-ig/
-
-# Thanks For Reading
+#
+### Thanks For Reading
 
