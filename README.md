@@ -10,5 +10,7 @@
 
 
 #
-### Thanks For Reading
-
+## About
+- This is AIRAVAT rat !
+- I am not real owner of this this rat
+- Credit goes to [**Prateek Chaubey**](https://github.com/Th30neAnd0nly/AIRAVAT/)
